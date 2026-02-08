@@ -1,0 +1,42 @@
+{
+  "device_name": "扬声器 (Redmi 电脑音箱)",
+  "fade_duration": 1.0,
+  "tracks": [
+    {
+      "path": "C:/Users/liqi/Music/关于郑州的记忆.mp3",
+      "volume": 100,
+      "loop": true,
+      "boost": true
+    },
+    {
+      "path": "C:/Users/liqi/Music/黑色信封.mp3",
+      "volume": 100,
+      "loop": true,
+      "boost": false
+    },
+    {
+      "path": "C:/Users/liqi/Music/美丽与勇敢.mp3",
+      "volume": 100,
+      "loop": true,
+      "boost": false
+    },
+    {
+      "path": "C:/Users/liqi/Music/飘向北方live.mp3",
+      "volume": 100,
+      "loop": true,
+      "boost": false
+    },
+    {
+      "path": "C:/Users/liqi/Music/情敌贝多芬live.mp3",
+      "volume": 100,
+      "loop": true,
+      "boost": false
+    },
+    {
+      "path": "C:/Users/liqi/Music/听爱.mp3",
+      "volume": 100,
+      "loop": true,
+      "boost": false
+    }
+  ]
+}
